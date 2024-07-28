@@ -1,0 +1,14 @@
+{
+  "name": "test_playground",
+  "version": "1.0.0",
+  "description": "Test project using Cypress framework in order to do various checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alin Mocrii",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}
