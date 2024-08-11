@@ -6,7 +6,7 @@ import { faker } from '@faker-js/faker';
 const homepage = new Homepage();
 const forms = new FormsSection();
 
-describe('Elements Tests', () => {
+describe('Forms Tests', () => {
   beforeEach(() => {
     cy.on('uncaught:exception', (err, runnable) => {
       // Return false to prevent Cypress from failing the test
